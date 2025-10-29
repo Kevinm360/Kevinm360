@@ -23,6 +23,15 @@ Currently working on projects that analyze marketing funnels, revenue performanc
 
 ## 🚀 Featured Projects
 
+
+### 📊 Olist Marketing Funnel Analysis
+A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sales-cycle efficiency for Olist’s e-commerce marketplace.
+
+[![Olist Dashboard](images/funnel_overview.png)](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
+🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
+
+
+
 ### 🧠 Side-Effects Signal Monitor — *FAERS (openFDA data)*
 An interactive Streamlit dashboard that monitors adverse drug reactions using FDA FAERS data, with live query filters, weekly signal tracking, and NLP keyword search.
 
