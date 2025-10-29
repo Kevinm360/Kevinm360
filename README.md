@@ -25,7 +25,8 @@ Currently working on projects that analyze marketing funnels, revenue performanc
 
 ### 🧠 Side-Effects Signal Monitor — *FAERS (openFDA data)*
 An interactive Streamlit dashboard that monitors adverse drug reactions using FDA FAERS data, with live query filters, weekly signal tracking, and NLP keyword search.
-![Uploading demo(1).gif…]()
+[![FAERS Demo](https://github.com/Kevinm360/ML-Drug-Side-Effects/blob/main/demo.gif?raw=true)](https://github.com/Kevinm360/ML-Drug-Side-Effects)
+
 
 
 🔗 **Repo:** [ML-Drug-Side-Effects](https://github.com/Kevinm360/ML-Drug-Side-Effects)
