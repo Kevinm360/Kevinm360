@@ -27,7 +27,8 @@ Currently working on projects that analyze marketing funnels, revenue performanc
 ### 📊 Olist Marketing Funnel Analysis
 A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sales-cycle efficiency for Olist’s e-commerce marketplace.
 
-[![Olist Dashboard](images/funnel_overview.png)](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
+![Full Funnel Performance Dashboard](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis/blob/main/images/performance.png?raw=true)
+
 🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
 
 
