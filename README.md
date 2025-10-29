@@ -21,12 +21,22 @@ Currently working on projects that analyze marketing funnels, revenue performanc
 
 ---
 
-### 📂 Featured Projects
-- [Olist Marketing Funnel Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis) – Marketing-to-sales funnel insights using Power BI  
-- [AI Web Scraper](https://github.com/Kevinm360/AI-Web-Scrapper) – Python-based sentiment and review extraction  
-- [ML Drug Side Effects](https://github.com/Kevinm360/ML-Drug-Side-Effects) – Drug safety signal detection using FAERS data  
+## 🚀 Featured Projects
+
+### 🧠 Side-Effects Signal Monitor — *FAERS (openFDA data)*
+An interactive Streamlit dashboard that monitors adverse drug reactions using FDA FAERS data, with live query filters, weekly signal tracking, and NLP keyword search.
+
+[![FAERS Demo](demo.gif)](https://github.com/Kevinm360/ML-Drug-Side-Effects)
+🔗 **Repo:** [ML-Drug-Side-Effects](https://github.com/Kevinm360/ML-Drug-Side-Effects)
 
 ---
+
+### 📊 Olist Marketing Funnel Analysis
+A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sales-cycle efficiency for Olist’s e-commerce marketplace.
+
+[![Olist Dashboard](images/funnel_overview.png)](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
+🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
+
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/kevin-mendoza-599857231/) | [GitHub](https://github.com/Kevinm360)  
