@@ -44,13 +44,6 @@ An interactive Streamlit dashboard that monitors adverse drug reactions using FD
 
 ---
 
-### 📊 Olist Marketing Funnel Analysis
-A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sales-cycle efficiency for Olist’s e-commerce marketplace.
-
-[![Olist Dashboard](images/funnel_overview.png)](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
-🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
-
-
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/kevin-mendoza-599857231/) | [GitHub](https://github.com/Kevinm360)  
 
