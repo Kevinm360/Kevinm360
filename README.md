@@ -32,15 +32,24 @@ A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sa
 🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
 
 
+### Vigil — Drug Safety Research Platform
 
-###  Side-Effects Signal Monitor — *FAERS (openFDA data)*
-An interactive Streamlit dashboard that monitors adverse drug reactions using FDA FAERS data, with live query filters, weekly signal tracking, and NLP keyword search.
+A research workspace for exploring FDA adverse-event reports,
+investigating reaction patterns, and keeping the supporting evidence together.
 
-[![FAERS Demo](https://github.com/Kevinm360/ML-Drug-Side-Effects/blob/main/demo.gif?raw=true)](https://github.com/Kevinm360/ML-Drug-Side-Effects)
+- **Analysis:** reporting trends, drug comparisons, statistical signals,
+  and interactive visualizations.
+- **Machine learning:** Logistic Regression and XGBoost for report
+  seriousness classification, with held-out evaluation and feature audits.
+- **Deployment:** Docker on AWS EC2 with HTTPS; public app hosted on
+  Render with Neon PostgreSQL.
 
+![Vigil walkthrough](https://raw.githubusercontent.com/Kevinm360/Vigil-Drug-Safety/refs/heads/codex/v1-release/docs/demo-v1.gif)
 
+[Explore the project](https://github.com/Kevinm360/Vigil-Drug-Safety/tree/codex/v1-release)
+· [Open the live app](https://vigil-drug-safety.onrender.com/)
 
-🔗 **Repo:** [ML-Drug-Side-Effects](https://github.com/Kevinm360/ML-Drug-Side-Effects)
+*The free demo may take about a minute to wake up.*
 
 ---
 
