@@ -1,37 +1,37 @@
 <h1 align="center">Hi, I'm Kevin Mendoza</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Python | Tableau</h3>
+<h3 align="center">Data Analytics & Machine Learning | Python · SQL · AWS</h3>
 
 ---
 
-###  About Me
-I'm a recent Computer Science graduate from the University at Albany, focusing on data analytics and business intelligence.  
-Currently working on projects that analyze marketing funnels, revenue performance, and process efficiency using Power BI and Python.
+### About Me
 
--  Currently building: **Olist Marketing Funnel Analysis**
--  Exploring: **Data visualization, funnel metrics, and KPI reporting**
--  Goal: **Turn business data into actionable insight**
+I'm a Computer Science graduate from the University at Albany.
+I build projects that turn complex data into clear visualizations,
+testable models, and tools people can actually use.
+
+My work spans business analytics and applied machine learning,
+with hands-on experience taking a project from data exploration
+to a deployed web application.
+
+- **Currently refining:** Vigil, a drug safety research platform using FDA data
+- **Exploring:** Model evaluation, interpretable machine learning, and cloud deployment
+- **Also working with:** Power BI dashboards, marketing funnels, and business reporting
 
 ---
 
-###  Skills & Tools
+### Skills & Tools
+
 **Languages:** Python, SQL  
-**Visualization:** Power BI, Tableau, Excel  
-**Data Handling:** pandas, NumPy, DAX  
-**Other:** Git, Flask, Jupyter  
+**Data & Machine Learning:** pandas, NumPy, scikit-learn, XGBoost  
+**Visualization & BI:** Power BI, Tableau, Excel, DAX  
+**Web Applications:** React, Flask  
+**Cloud & Deployment:** AWS EC2, Docker, Linux, Render  
+**Databases:** PostgreSQL, SQLite  
+**Development Tools:** Git, GitHub, Jupyter  
 
 ---
 
 ##  Featured Projects
-
-
-###  Olist Marketing Funnel Analysis
-A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sales-cycle efficiency for Olist’s e-commerce marketplace.
-
-![Full Funnel Performance Dashboard](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis/blob/main/images/performance.png?raw=true)
-
-🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
-
-
 ### Vigil — Drug Safety Research Platform
 
 A research workspace for exploring FDA adverse-event reports,
@@ -50,6 +50,16 @@ investigating reaction patterns, and keeping the supporting evidence together.
 · [Open the live app](https://vigil-drug-safety.onrender.com/)
 
 *The free demo may take about a minute to wake up.*
+
+###  Olist Marketing Funnel Analysis
+A Power BI project analyzing lead-to-deal conversion, revenue by channel, and sales-cycle efficiency for Olist’s e-commerce marketplace.
+
+![Full Funnel Performance Dashboard](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis/blob/main/images/performance.png?raw=true)
+
+🔗 **Repo:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)
+
+
+
 
 ---
 
